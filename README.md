@@ -29,15 +29,16 @@ A simple and interactive **Tic-Tac-Toe** game built using **HTML**, **CSS**, and
 ```text
 Tic-Tac-Toe-Game/
 │
-├── screenshot.png
-├── excited.gif
 ├── Game-over.mp3
 ├── Music.mp3
+├── README.md
 ├── Ting.mp3
+├── excited.gif
 ├── index.html
+├── screenshot1.png
+├── screenshot2.png
 ├── script.js
-├── style.css
-└── README.md
+└── style.css
 ```
 
 ---
