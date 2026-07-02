@@ -4,6 +4,10 @@ A simple and interactive **Tic-Tac-Toe** game built using **HTML**, **CSS**, and
 
 ---
 
+## 🌐 Live Demo
+
+👉 **Play the Game Here:** https://ayush-jaiswal-code99.github.io/Tic-Tac-Toe-Game/
+
 ## 🚀 Features
 
 * 🎮 Two-player Tic-Tac-Toe gameplay
